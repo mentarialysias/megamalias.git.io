@@ -1,0 +1,72 @@
+<html lang="id" translate="yes">
+    <head>
+        <meta name="viewport" content="width=device-width initial-scale=1">
+        <title> EYELINK BLOG COMPETITION</title>
+        <link rel="stylesheet" href="assets/style/style.css">
+    </head>
+    <body>
+        <header>
+            <div class="jumbotron">
+                <h1>Mega Ayu Amalia Sudrajat</h1>
+                <p><i> Pentingnya Menjaga Kesehatan Mata</i></p>
+            </div>
+            <nav><marquee>
+                <ul>
+                    
+                    <li><a href="#Bag2"> Gangguan pada Mata</a></li>
+                    <li><a href="#Bag3"> Pengobatan dan Konsultasi</a></li>
+                </ul>
+                </marquee>
+            </nav>
+        </header>
+        <main>
+            <div id="content">
+                <article class="card">
+                    <h2 id="Profil" align="center">Mengapa kita harus menjaga kesehatan mata?? </h2>
+                    <p>
+                        Mata merupakan salah satu organ vital manusia yang sangat berpengaruh dalam kualitas hidup masyarakat. Di era digitalisasi saat ini, kesehatan mata menjadi hal yang sangat diprioritaskan. Pasalnya hampir tidak ada batasan antara kita dengan gadget maupun benda elektronik lainnya seperti televisi, komputer, laptop dan sebagainya dengan intensitas yang tinggi per harinya.
+Tidak dipungkiri dikarenakan aktivitas tersebut banyaknya masyarakat yang mengeluh terkait penglihatannya, mulai dari mata lelah, mata perih dan berair, mata minus, dan lain sebagainya.
+Tentu, bukan teknologinya yang kita salahkan melainkan kita yang harus mewaspadai dan merawat mata agar selalu terjaga kesehatannya. 
+                    </p> <br><br>
+					Menjaga kesehatan mata merupakan hal yang harus diprioritaskan dan sebaiknya dilakukan cek kesehatan secara berkala supaya kondisi mata terpantau. Menjaga kesehatan mata berarti menjaga organ vital pokok dalam tubuh manusia. Artinya keluhan pada mata tidak boleh dibiarkan begitu saja karena bisa jadi akan berdampak besar nantinya.
+Dewasa ini, kita menjumpai banyak kelainan mata yang mulai beragam. Hal tersebut dikarenakan banyaknya aktivitas yang mengancam kesehatan mata. <br> <br>
+
+				<br> Dilansir dari laman Universitas Gadjah Mada Fakultas Kedokteran menyatakan bahwa Indonesia menempati urutan tertinggi kedua gangguan penglihatan di dunia setelah Ethiopia dengan menitikberatkan glaukoma sebagai salah satu faktor kerusakan mata dan dapat dipastikan bahwa glaukoma menyumbang angka persentase yang cukup tinggi, karena merupakan penyebab terbanyak kedua kehilangan penglihatan secara progresif yang diperkirakan akan diderita oleh 80 juta orang di seluruh dunia pada tahun 2020 lalu.
+				<br><br>
+				 <H3 id="Bag2"> Gangguan Pada Mata </h3> 
+				Adapun gangguan pada mata yang menyebabkan kebutaan terbesar di Indonesia maupun di dunia yaitu katarak. Katarak merupakan kekeruhan pada lensa manusia dimana terjadi kekeruhan pada lensa mata yang menyebabkan penglihatan menjadi buram hingga beresiko kebutaan. Pada umumnya penyebab katarak adalah akibat proses penuaan yang menyebabkan perubahan pada jaringan mata. 
+Tetapi pencegahan katarak dapat dilakukan sedini mungkin mulai dari melakukan pemeriksaan rutin ke dokter, melindungi mata dari benturan atau trauma benda asing, memastikan pencahayaan di rumah dalam kondisi terbaik, dan masih banyak lagi,
+Saat ini, belum ditemukan obat untuk menyembuhkan katarak, karenanya penderita katarak harus melakukan operasi agar bisa sembuh. Adapun teknik operasi katarak diantaranya :
+ECCE (Extra Capsular Cataract Extraction) yang merupakan teknik operasi dimana lensa dikeluarkan melalui sayatan selebar 8-10mm.
+SICS (Small Incision Cataract Surgery) yaitu teknik operasi menggunakan jahitan dengan sayatan 6-10mm. 
+				<br><br>
+				Phacoemulsification merupakan operasi tanpa jahitan, dimana pasien bisa sembuh dengan lebih cepat.
+				<br><br>
+				Bagi penderita gangguan mata ringan seperti hordeolum dan konjungtivitis dan sebagainya dapat diobati dengan obat yang diberikan dokter di fasilitas kesehatan namun tetap harus diperiksa secara berkala supaya tidak semakin menjalar dan memperburuk penglihatan mata.
+Memang, tidak semua gangguan pada mata berdampak besar kedepannya, hanya saja kita harus menjaga dengan sebaik - baiknya apa yang menjadi indra prioritas kita dengan cara - cara yang cukup mudah, mulai dari menjaga jarak dengan gadget, rajin mengkonsumsi buah dan sayur yang membantu menutrisi mata, konsultasi ke dokter bila ada keluhan dan sebagainya.
+				<br><br>
+				Adapun gangguan refraksi seperti rabun jauh, rabun dekat, silinder dan mata tua dapat diobati dengan metode lasik yaitu prosedur laser untuk mengoreksi gangguan refraksi sehingga dapat terbebas dari alat bantu penglihatan
+				<br id="Bag3"><br><br>
+				<h3 > Pengobatan dan Konsultasi </h3>
+				Selanjutnya untuk menangani keluhan dan pengobatan secara tepat yang apabila kita kurang memiliki waktu untuk konsultasi dengan dokter mata atau malas mengantre di Klinik dan fasilitas kesehatan lainnya, kita dapat melakukan konsultasi dengan dokter mata secara online. <br>
+				Ya, konsultasi dengan dokter mata secara online ini merupakan inovasi yang dikeluarkan oleh eye link group guna mempermudah kita untuk akses kesehatan mata, mulai dari keluhan, pengobatan dan edukasi. Dokter mata merupakan platform konsultasi kesehatan mata online (Live Zoom) gratis dengan dokter spesialis mata di Indonesia yang menyediakan konsultasi baik secara online maupun chat live dimana pasien bisa menentukan sendiri sesuai kebutuhannya.
+<br><br>
+Dengan adanya inovasi serta terobosan baru yang diadakan oleh eyelink group diharapkan mampu meningkatkan kesehatan mata masyarakat Indonesia. Dengan terus menekan angka katarak yang tinggi, pengurangan pengguna kontak lens dan sebagainya. <br>
+
+				
+				
+				
+				
+                </article>
+                
+            </aside>
+        </main>
+        <footer>
+            <p>EYELINK BLOG COMPETITION<br>
+            Mega Ayu Amalia Sudrajat &#169;2022</p>
+            <a href="https://www.instagram.com/megamalias08"><img class="footer-img" src="assets/image/IG.png"></a>
+            <a href="https://www.facebook.com/amalia.ayu.71"><img class="footer-img" src="assets/image/FB.png"></a>
+        </footer>
+	</body>
+    
+</html>
